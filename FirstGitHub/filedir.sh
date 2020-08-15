@@ -1,0 +1,2 @@
+ls -halF
+ls -ltr
